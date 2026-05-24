@@ -35,3 +35,9 @@ Cars.push("Mercedes");
 
 // Cars.pop();
 // console.log(Cars); // [ 'Maruti', 'Honda', 'BMW', 'Audi' ]
+
+
+// Splice method
+// Cars.splice(2,0,"Lexus");
+// console.log(Cars); // [ 'Maruti', 'Honda', 'Lexus', 'BMW', 'Audi', 'Mercedes' ]
+
