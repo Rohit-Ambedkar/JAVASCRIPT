@@ -8,3 +8,8 @@ Arrays Methods
 5. indexOf // returns index of something.
 
 6. includes // search for a value. 
+
+7.slice // copies a portion of an array.
+
+8. splice // removes / replaces / add elements in place 
+==> splice(start,deleteCoun, item...itemN)
