@@ -1,0 +1,20 @@
+String Methods
+
+Methods -  Actions that can be performed on objects.
+
+Format =>
+
+stringName.method()
+
+Trim method => iska use string k phle or last mai jo spaces hote hai use remove krke new string generate krta hai
+
+ format => string.trim()
+
+toUpperCase() => isme jo string agar lower case ami hai to use uppercase mai change krti hai
+ 
+ Format =>str.uppercase();
+
+
+toLowerCase() = isme string ko LowerCase mai change krti hai
+
+Format => str.LowerCase();

@@ -1,0 +1,13 @@
+Primitive data type
+
+1.Number
+2.Boolean
+3.String
+4.Undefined
+5.Null
+6.Bigint
+
+non-Primitive data type
+
+1.Array
+2.object

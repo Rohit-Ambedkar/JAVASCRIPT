@@ -1,0 +1,80 @@
+Q.1 What is variable?
+Ans=> A variable is simple the name of a storage location.
+
+
+
+Q.2 What is NaN in Js?
+Ans=> The NaN global property is a value representing Not-A-Number.
+ 
+iske under ak valid number nhi hota,
+iska type number hi hota hai.
+like,
+1.0 / 0
+2.Nan - 1
+3.NaN * 1
+4.NaN + NaN
+
+
+Q.3 What is Operator Precedence
+Ans=> This is the general order of solving an expression.
+
+using BODMAS rule
+
+1. High Precedence -> ()
+2. **(power)
+3. *,/,%
+4. +,-(low Precedence)
+
+
+Q.4 What is Assignment Operator?
+Ans=> The Assignment Operator is the assing the value.
+like ,
+1. Age = Age+1;
+age+=1;
+2. age =age -1;
+age-=1;
+3. age = age*1;
+age*=1;
+
+
+Q.5 Unary Operators
+Ans=>   1.Increment (a++)
+        2.Decrement (a--)
+
+
+Q.5  Boolean in Js
+ 
+ Ans=>
+  let age =13;
+  isAdult = false;
+
+
+  Q.6 What is TypeScript?
+  Ans=>Static typed isme type change nhi hota hai (fixed)
+        Js main dynamic typed hota hai (changed)
+
+
+  Q.7 What is String?
+  Ans=> String are text or Sequence of Characters.
+    example->
+    let name = "Tony Stark"; 
+
+Q.8 What is Null & undefined in Js
+
+Ans=> A variable that has not been assigned a value is of type undefined 
+(undefined=> jo value agar javascript ko pta nhi hoti to bh undefined show karta hai)
+
+Null ==>
+
+The null value represents the intentional ansence of any object value.
+
+like, let a = null;
+
+Q.9 What is Template Literals in Js
+Ans=> They are used to add embedded expressions in a string.
+
+example->
+let a= 5;
+let b =10;
+console.log(` Your sum is ${a+b}`);
+

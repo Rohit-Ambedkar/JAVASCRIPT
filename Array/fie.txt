@@ -1,0 +1,10 @@
+Arrays Methods
+
+1. Push  // add to end
+2.Pop // delete from end &  returns it.
+3. Unshift  // add to start.
+4. Shift  // delete from start & return it.
+
+5. indexOf // returns index of something.
+
+6. includes // search for a value. 
