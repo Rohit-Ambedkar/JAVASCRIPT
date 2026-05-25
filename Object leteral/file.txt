@@ -1,0 +1,17 @@
+// object literals in js
+
+syntax =>
+const post ={
+    key: value,
+    key:value
+}
+
+// Get Values 
+ js automatically converts objects keys to string.
+
+ Even if we made the number as a key, the number will be converted to string.
+
+
+ // Nested object
+    Stroing information of multiple students.
+    
