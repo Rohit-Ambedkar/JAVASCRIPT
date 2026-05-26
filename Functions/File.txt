@@ -1,0 +1,31 @@
+//Function in js 
+
+ function Defination(telling Js)
+
+ // Syntax
+ function funcName(){
+    // do something
+ }
+
+ funcName() // function call
+
+
+ //Scope 
+
+ Scope determines the accessibility of variables,objects, and function from different parts of the code.
+
+ 1. Function
+ 2. Block
+ 3. Lexical
+ 4. Global 
+
+
+
+ // Function Expressions
+
+  // syntax 
+
+  let sum = function(a,b){
+    //do something
+  }
+  sum(x,y);
